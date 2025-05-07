@@ -1,0 +1,5 @@
+POST http://localhost:3000/api/weather/create
+
+{
+  "id":51,"temperature":22.5,"condition":"맑음","humidity":60,"windSpeed":3.2
+}
